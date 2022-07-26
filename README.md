@@ -10,6 +10,6 @@ This repository includes the given HTML code, CSS code, and the JavaScript code.
 
 
 gitHub link: https://github.com/malekmekdashi/password-generator
-https://malekmekdashi.github.io/generatepassword/
+Application link: https://malekmekdashi.github.io/generatepassword/
 
 ![image](https://user-images.githubusercontent.com/108254449/180927013-b0f4a3df-d6e1-4217-9edb-28879b199b8b.png)
